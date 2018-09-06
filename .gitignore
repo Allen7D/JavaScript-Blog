@@ -1,0 +1,6 @@
+.DS_Store
+demo/*/node_modules
+
+# Editor directories and files
+.idea
+.vscode

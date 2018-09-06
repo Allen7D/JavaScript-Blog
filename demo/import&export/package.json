@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server/start.js"
+  },
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
