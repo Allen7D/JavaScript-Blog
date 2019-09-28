@@ -1,5 +1,6 @@
 .DS_Store
 demo/*/node_modules
+demo/*/package-lock.json
 
 # Editor directories and files
 .idea
